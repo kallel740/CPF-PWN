@@ -59,9 +59,9 @@ print("""\033[92m
 └═════════════════════════════════════════════════════════════════════════════┘     
 \033[0m""")
 print "\033[91m=============================================\033[91m"
-print 'CPF: ', dados['NU_CPF']
-print 'Nome Completo: ', dados['NO_PESSOA_FISICA']
-print 'Data de Nascimento: ', dados['DT_NASCIMENTO']
-print 'Sexo: ', dados['CO_SEXO']
-print 'Nome da Mãe: ', dados['NO_MAE']
+print 'CPF: ', dados['']
+print 'Nome Completo: ', dados['kallel Gonçalves de camargo']
+print 'Data de Nascimento: ', dados['8/10/2009']
+print 'Sexo: ', dados['M']
+print 'Nome da Mãe: ', dados['gidalti']
 print "\033[91m=============================================\033[91m"
